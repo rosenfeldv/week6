@@ -1,0 +1,6 @@
+<svg width="99" height="99" viewBox="0 0 99 99" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="stroke0_46_61" fill="white">
+<path d="M49.5 0L60.6134 34.2037H96.5773L67.4819 55.3427L78.5954 89.5463L49.5 68.4073L20.4046 89.5463L31.5181 55.3427L2.4227 34.2037H38.3866L49.5 0Z"/>
+</mask>
+<path d="M49.5 0L60.6134 34.2037H96.5773L67.4819 55.3427L78.5954 89.5463L49.5 68.4073L20.4046 89.5463L31.5181 55.3427L2.4227 34.2037H38.3866L49.5 0Z" stroke-width="10" stroke-linejoin="round" stroke="black" mask="url(#stroke0_46_61)"/>
+</svg>
